@@ -1,16 +1,17 @@
-### Hi there 👋
+# 私について
+放送大学教養学部教養学科情報コース在籍。25年10月卒業予定。学費の都合で京都コンピュータ学院中退。 <br>
+目下資格勉強中。ArchWikをよく読みます。高校時代にRustで簡単なDESの模型を作成程度のプログラミング経験あり。<br>
+C言語の文法とメモリ周りの基礎訓練は京都コンピュータ学院時代に押さえています。<br>
 
-<!--
-**SakuraSystemz/SakuraSystemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 趣味
+- Hack
+- 読書
+- 空手と日本拳法
+ - 道場通いはできていないものの、上段蹴りと体軸の動きを抑える程度には習得
+- 論文を読むこと
+ - 情報工学から心理学、刑法生物学..etcと広く読むように心がけています
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 使っているデバイス
+ThinkPad X1
+ - OS: BlackArch
+  - ペンテスト用OSですが、セキュリティツール意外にも所謂`アーミーナイフ`的なツールをpacmanからインストールできるため重宝しています
